@@ -16,4 +16,8 @@ Overview & Purpose
   - Multiple charts—maps, time-series, bar charts—to visualize different dimensions of travel data.
   - Responsive layout, possibly optimized for various device types. :contentReference[oaicite:0]{index=0}
 
+**Images**
+<img width="1456" height="725" alt="image" src="https://github.com/user-attachments/assets/62839e75-0c31-4e55-b0ce-77b9cb74b388" />
+
+
 
